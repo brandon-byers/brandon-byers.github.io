@@ -24,6 +24,7 @@ I'm following the CompTIA A+ Exam Objectives in my study.
 **Messer's videos are layed out in order of the Exam Objectives.**
 
 ## Notes
+* * *
 ### Exam Objective 1.0 Mobile Devices
 - Chapter 23
 - Chapter 24 - pages 1085-1098
