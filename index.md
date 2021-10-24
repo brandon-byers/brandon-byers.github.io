@@ -19,11 +19,12 @@ Currently studying for the A+ exams 220-1001 & 220-1002.
 
 I'm following the CompTIA A+ Exam Objectives in my study. 
 
-**Note that the Book is not layed out in-line with the Exam Objectives, but Meyers does provide a map from the Exam Objectives to the corresponding chapters in Appendix A (page 1319).**
+**Note that the Book chapters do not correspond with the Exam Objectives, but Meyers does provide a map from the Exam Objectives to the corresponding chapters in Appendix A (page 1319).**
 
-**Messer's videos are layed out in order of the Exam Objectives.**
+**Messer's videos do correspond (objective number is in the title) with the Exam Objectives.**
 
-## Notes
+## Notes: Core 1, 220-1001 Exam
+* * *
 ### Exam Objective 1.0 Mobile Devices
 - Chapter 23
 - Chapter 24 - pages 1085-1098
@@ -37,6 +38,10 @@ I'm following the CompTIA A+ Exam Objectives in my study.
 	- [Mobile Device Connectivity - CompTIA A+ 220-1001 - 1.6](https://www.youtube.com/watch?v=ULwgx42sKN8&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K&index=8)
 	- [Configuring Email on Mobile Devices - CompTIA A+ 220-1001 - 1.6](https://www.youtube.com/watch?v=ify_6P3Dqek&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K&index=9)
 	- [Mobile Device Synchronization - CompTIA A+ 220-1001 - 1.7](https://www.youtube.com/watch?v=HMeZ_S5lBvg&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K&index=10)
+
+
+### Exam Objective 2.0 Networking
+-
 
 
     
