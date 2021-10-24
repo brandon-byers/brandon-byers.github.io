@@ -39,6 +39,7 @@ I'm following the CompTIA A+ Exam Objectives in my study.
 	- [Configuring Email on Mobile Devices - CompTIA A+ 220-1001 - 1.6](https://www.youtube.com/watch?v=ify_6P3Dqek&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K&index=9)
 	- [Mobile Device Synchronization - CompTIA A+ 220-1001 - 1.7](https://www.youtube.com/watch?v=HMeZ_S5lBvg&list=PLG49S3nxzAnlGHY8ObL8DiyP3AIu9vd3K&index=10)
 
+_notes to be added here_
 
 ### Exam Objective 2.0 Networking
 -
