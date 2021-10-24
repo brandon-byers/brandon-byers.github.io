@@ -22,8 +22,9 @@ I'm following the CompTIA A+ Exam Objectives in my study.
 **Note that the Book is not layed out in-line with the Exam Objectives, but Meyers does provide a map from the Exam Objectives to the corresponding chapters in Appendix A (page 1319).**
 
 **Messer's videos are layed out in order of the Exam Objectives.**
-...
+
 ## Notes
+***
 ### Exam Objective 1.0 Mobile Devices
 - Chapter 23
 - Chapter 24 - pages 1085-1098
